@@ -41,4 +41,4 @@ I'm currently strengthening my foundation in **computer architecture, RTL design
 
 ## Connect
 
-[LinkedIn](YOUR-LINKEDIN-URL)
+[LinkedIn](https://www.linkedin.com/in/anthony-tinajero/)
