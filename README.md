@@ -28,7 +28,7 @@ GPU programming project exploring parallel image processing with CUDA and the pe
 ### [Lifeguard AI Vision](https://github.com/anthonytinajero/lifeguard-ai-vision)
 Computer vision project using Python, OpenCV, and YOLO to explore real-time swimmer tracking and AI-assisted pool safety.
 
-### MNIST Neural Network(https://github.com/anthonytinajero/mnist-handwriting-recognition)
+### [MNIST Neural Network](https://github.com/anthonytinajero/mnist-handwriting-recognition)
 Neural network developed through a PCS workshop to understand linear layers, activation functions, forward propagation, backpropagation, and gradient descent.
 
 ---
