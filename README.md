@@ -2,7 +2,7 @@
 
 ### Electrical Engineering Student | University of Houston
 
-Electrical Engineering student interested in computer architecture, digital design, GPU computing, and intelligent hardware systems. I enjoy building projects that help me understand computing from the hardware level up.
+Electrical Engineering freshman interested in computer architecture, digital design, GPU computing, and intelligent hardware systems. I enjoy building projects that help me understand computing from the hardware level up.
 
 Currently developing my skills in RTL design, CUDA, embedded systems, and machine learning.
 
