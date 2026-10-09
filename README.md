@@ -19,16 +19,16 @@ Currently developing my skills in RTL design, CUDA, embedded systems, and machin
 
 ## Featured Projects
 
-### RISC-V Processor
+### [RISC-V Processor](https://github.com/anthonytinajero/riscv-rtl-design)
 Single-cycle RISC-V processor project focused on learning processor architecture, datapath design, control logic, and RTL development using Verilog/SystemVerilog.
 
-### CUDA Image Processing
+### [CUDA Image Processing](https://github.com/anthonytinajero/cuda-image-processing-workshop)
 GPU programming project exploring parallel image processing with CUDA and the performance differences between CPU and GPU implementations.
 
-### Lifeguard AI Vision
+### [Lifeguard AI Vision](https://github.com/anthonytinajero/lifeguard-ai-vision)
 Computer vision project using Python, OpenCV, and YOLO to explore real-time swimmer tracking and AI-assisted pool safety.
 
-### MNIST Neural Network
+### MNIST Neural Network(https://github.com/anthonytinajero/mnist-handwriting-recognition)
 Neural network developed through a PCS workshop to understand linear layers, activation functions, forward propagation, backpropagation, and gradient descent.
 
 ---
