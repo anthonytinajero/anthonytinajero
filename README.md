@@ -43,6 +43,8 @@ I'm currently strengthening my foundation in **computer architecture, RTL design
 
 ### [Hardware Notebook](https://github.com/anthonytinajero/hardware-notebook)
 
+A continuously evolving collection of notes and exercises documenting my journey in digital electronics, SystemVerilog, RTL design, and computer architecture. Built to reinforce foundational concepts and document my growth as an aspiring hardware engineer.
+
 ---
 
 ## Connect
