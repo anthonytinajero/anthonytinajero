@@ -39,6 +39,12 @@ I'm currently strengthening my foundation in **computer architecture, RTL design
 
 ---
 
+## What im Learning
+
+### [Hardware Notebook](https://github.com/anthonytinajero/hardware-notebook)
+
+---
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/anthony-tinajero/)
